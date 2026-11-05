@@ -1,0 +1,7 @@
+transaction_id,date,department,transaction_type,amount
+TXN001,2026-11-01,Sales,Revenue,12000
+TXN002,2026-11-02,IT,Expense,2000
+TXN003,2026-11-03,Marketing,Expense,3000
+TXN004,2026-11-04,Sales,Revenue,8000
+TXN005,2026-11-05,Operations,Expense,1500
+TXN006,2026-11-05,Sales,Revenue,5000
